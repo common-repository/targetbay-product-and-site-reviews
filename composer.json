@@ -1,0 +1,16 @@
+{
+    "require": {
+        "woocommerce/woocommerce-sniffs": "^0.1",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "tareq1988/wp-php-cs-fixer": "dev-master"
+    }
+}
